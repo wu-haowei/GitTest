@@ -12,6 +12,7 @@ namespace _20241212_GitTest
         {
             Console.WriteLine("A");
             Console.WriteLine("B");
+            Console.WriteLine("C");
 
         }
     }
