@@ -11,6 +11,8 @@ namespace _20241212_GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("A");
+            Console.WriteLine("B");
+
         }
     }
 }
